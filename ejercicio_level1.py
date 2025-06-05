@@ -1,0 +1,22 @@
+print(type(2+2))
+print(type(3-2))
+print(type(2*2))
+print (type(25%3))
+print(type(20/4))
+print(type(2**2))
+print(type(25//3))
+
+print(type('Uriel Martinez'))
+print(type('ibrahim, Erika, Neto, kimber'))
+print(type('Mexico'))
+print(type('estoy disfrutando de 30 dias de python'))
+
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type(['asabhene','python','finland']))
+print(type("Uriel Martinez"))
+print(type('ibrahim, Erika, Neto, kimber'))
+print(type('Mexico'))
+
